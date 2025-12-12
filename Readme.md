@@ -1,43 +1,64 @@
-# Hey Folks 👋, Prince This Side  
+# 👋 Hi, I'm Prince Kumar
 
-🚀 An Aspiring Full-Stack Developer from India  
-🌱 Currently learning **React, Redux & DSA**  
-💻 Passionate about building scalable apps & solving real-world problems  
+🎯 An aspiring **Full-Stack Developer** passionate about building scalable and user-centric applications. Currently leveling up my skills in React, Node.js, and Data Structures at **Masai School**.
 
 ---
 
-## 🛠 Tech Stack
-- **Languages:** JavaScript, Python, C++
-- **Frontend:** React, Redux, Vite, TailwindCSS
-- **Backend:** Node.js, Express
-- **Databases:** MongoDB, MySQL, Firebase
-- **Tools:** Git, GitHub, VS Code, Postman  
+## 🚀 Tech Stack
+
+- **Languages**: JavaScript, Python, C++
+- **Frontend**: React, Redux Toolkit, TailwindCSS, HTML, CSS
+- **Backend**: Node.js, Express
+- **Database**: MongoDB, MySQL, Firebase
+- **Tools**: Git, GitHub, Postman, VS Code, Netlify, Vercel
+
+---
+
+## 🌟 Featured Projects
+
+### ✈️ [SkyPredict – Flight Fare Prediction App](https://github.com/prince87652/skypredict)
+A machine learning-based fare prediction tool with FastAPI backend and React frontend. Visualizes trends and estimates ticket costs.
+
+**Tech**: React, Python, FastAPI, Chart.js  
+🔗 [Live Demo](#) (Add Netlify link) | 📁 [Code](https://github.com/prince87652/skypredict)
+
+---
+
+### 💊 [MediTrack – Prescription Manager](https://github.com/prince87652/MediTrack)
+Tracks medicines, doses, and schedules. Designed for both patients and doctors.
+
+**Tech**: React, Node.js, MongoDB  
+🔗 [Live Demo](#) | 📁 [Code](https://github.com/prince87652/MediTrack)
+
+---
+
+### 🧘 [FitnessBuddy – Workout Tracker](https://github.com/prince87652/FitnessBuddy)
+Your smart fitness companion to track workouts, set goals, and monitor progress.
+
+**Tech**: React, LocalStorage  
+🔗 [Live Demo](#) | 📁 [Code](https://github.com/prince87652/FitnessBuddy)
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [Portfolio](https://princemishra.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/akp-mishra/)
+- 📧 princekumar7323870@gmail.com
+- 📄 [Resume](#) (Add link to PDF)
+
+---
+
+## 🧠 Quote
+
+> “Code, Learn, Repeat – Until You Become Unstoppable.”
 
 ---
 
 ## 📊 GitHub Stats
-![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinceMishra&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=PrinceMishra&theme=radical&border_radius=5)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prince87652&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=prince87652&theme=tokyonight)
 
 ---
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=PrinceMishra&theme=onedark)
-
----
-
-## 🚀 Featured Projects
-- ✈️ [Flight Booking App](https://github.com/PrinceMishra/flight-booking)
-- 💊 [Prescription Management Tool](https://github.com/PrinceMishra/prescription-tool)
-- 🌐 [Portfolio Website](https://github.com/PrinceMishra/portfolio)
-
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/prince-kumar-gsi/)
-[![Portfolio](https://princemishra.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princekumar7323870@gmail.com)
-
----
-
-⭐️ *“Code, Learn, Repeat – Until You Become Unstoppable.”*
