@@ -1,64 +1,63 @@
 # 👋 Hi, I'm Prince Kumar
 
-🎯 An aspiring **Full-Stack Developer** passionate about building scalable and user-centric applications. Currently leveling up my skills in React, Node.js, and Data Structures at **Masai School**.
+🚀 Aspiring Full-Stack Web Developer with a passion for building clean, functional, and scalable web apps. Currently enrolled in the intensive SDE program at **Masai School**. Focused on React, Node.js, and problem-solving with DSA.
 
 ---
 
-## 🚀 Tech Stack
+## 💼 Portfolio
+
+🔗 **Live**: [princekumar121.netlify.app](https://princekumar121.netlify.app)
+
+---
+
+## 🛠 Tech Stack
 
 - **Languages**: JavaScript, Python, C++
-- **Frontend**: React, Redux Toolkit, TailwindCSS, HTML, CSS
-- **Backend**: Node.js, Express
-- **Database**: MongoDB, MySQL, Firebase
-- **Tools**: Git, GitHub, Postman, VS Code, Netlify, Vercel
+- **Frontend**: React.js, Redux Toolkit, HTML, CSS, TailwindCSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB, Firebase
+- **Tools**: Git, GitHub, Postman, Vite, Netlify, VS Code
 
 ---
 
-## 🌟 Featured Projects
+## 📂 Featured Projects
 
-### ✈️ [SkyPredict – Flight Fare Prediction App](https://github.com/prince87652/skypredict)
-A machine learning-based fare prediction tool with FastAPI backend and React frontend. Visualizes trends and estimates ticket costs.
-
-**Tech**: React, Python, FastAPI, Chart.js  
-🔗 [Live Demo](#) (Add Netlify link) | 📁 [Code](https://github.com/prince87652/skypredict)
-
----
-
-### 💊 [MediTrack – Prescription Manager](https://github.com/prince87652/MediTrack)
-Tracks medicines, doses, and schedules. Designed for both patients and doctors.
-
-**Tech**: React, Node.js, MongoDB  
-🔗 [Live Demo](#) | 📁 [Code](https://github.com/prince87652/MediTrack)
+### ✈️ SkyPredict – Flight Fare Prediction System  
+**A web app that estimates flight prices using a simple ML model.**  
+🧠 FastAPI backend, React frontend, and historical fare data visualizations.  
+🔗 [Live](#) | 📁 [Code](https://github.com/prince87652/skypredict)
 
 ---
 
-### 🧘 [FitnessBuddy – Workout Tracker](https://github.com/prince87652/FitnessBuddy)
-Your smart fitness companion to track workouts, set goals, and monitor progress.
-
-**Tech**: React, LocalStorage  
-🔗 [Live Demo](#) | 📁 [Code](https://github.com/prince87652/FitnessBuddy)
-
----
-
-## 📫 Let's Connect
-
-- 🌐 [Portfolio](https://princemishra.netlify.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/akp-mishra/)
-- 📧 princekumar7323870@gmail.com
-- 📄 [Resume](#) (Add link to PDF)
+### 💊 MediTrack – Prescription Tracker  
+**Manage prescriptions, doses, and schedules with user-friendly UI.**  
+Built using React, Node.js, and MongoDB.  
+🔗 [Live](#) | 📁 [Code](https://github.com/prince87652/MediTrack)
 
 ---
 
-## 🧠 Quote
+### 🧘 FitnessBuddy – Workout Tracker  
+**Track workouts and fitness goals.**  
+LocalStorage-powered React app with clean design.  
+🔗 [Live](#) | 📁 [Code](https://github.com/prince87652/FitnessBuddy)
 
-> “Code, Learn, Repeat – Until You Become Unstoppable.”
+---
+
+## 📫 Contact
+
+- 📧 princekumar7323870@gmail.com  
+- 🌐 [Portfolio](https://princekumar121.netlify.app)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/akp-mishra/)  
+- 📄 [Resume](#) *(host your PDF on Google Drive or GitHub)*
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prince87652&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prince87652&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=prince87652&theme=tokyonight)
 
 ---
+
+> “Code. Learn. Build. Repeat.”
 
