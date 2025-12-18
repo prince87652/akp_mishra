@@ -6,7 +6,7 @@
 
 ## 💼 Portfolio
 
-🔗 **Live**: [princekumar121.netlify.app](https://princekumar121.netlify.app)
+🔗 **Live**: [princekumar121.netlify.app](https://princekumar121.netlify.app/)
 
 ---
 
@@ -22,10 +22,7 @@
 
 ## 📂 Featured Projects
 
-### ✈️ SkyPredict – Flight Fare Prediction System  
-**A web app that estimates flight prices using a simple ML model.**  
-🧠 FastAPI backend, React frontend, and historical fare data visualizations.  
-🔗 [Live](#) | 📁 [Code](https://github.com/prince87652/skypredict)
+
 
 ---
 
